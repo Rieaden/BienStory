@@ -8,7 +8,6 @@ MainWindow::MainWindow(QWidget *parent) :
 {
     ui->setupUi(this);
     std::cout<<"test";
-    std::cout<<"bouse";
 }
 
 MainWindow::~MainWindow()
